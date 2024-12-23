@@ -12,3 +12,23 @@ To make the most of this repository, simply browse through the files to find the
 
 ## Contribution
 Contributions to this repository are welcome! If you have a new solution to a problem, an improvement to an existing solution, or a suggestion for how to make this repository better, feel free to submit a pull request. Your contributions help make this repository a valuable resource for the programming community.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+<!---LeetCode Topics End-->
