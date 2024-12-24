@@ -19,16 +19,23 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+## Graph
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 <!---LeetCode Topics End-->
