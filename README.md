@@ -19,21 +19,25 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Graph
 |  |
 | ------- |
