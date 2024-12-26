@@ -42,4 +42,16 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Array
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0494-target-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
