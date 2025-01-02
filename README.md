@@ -48,6 +48,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0494-target-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,8 +64,10 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
