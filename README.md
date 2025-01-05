@@ -49,6 +49,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [1025-minimum-cost-for-tickets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [2358-number-of-ways-to-split-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
@@ -66,6 +67,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
@@ -73,6 +75,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
