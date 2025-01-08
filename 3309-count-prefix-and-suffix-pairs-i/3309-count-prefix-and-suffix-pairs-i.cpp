@@ -6,8 +6,7 @@ public:
             for (int j = i + 1; j < words.size(); ++j) {
                 string w1 = words[i];
                 string w2 = words[j];
-                int L = w1.length();
-                if (w1 == w2.substr(0, L) && w1 == w2.substr(w2.length() - L)) {
+                if (w2.starts_with(w1) && w2.ends_with(w1)) {
                     ++res;
                 }
             }
