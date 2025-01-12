@@ -1,28 +1,28 @@
 class Solution {
 public:
     bool canBeValid(string s, string locked) {
-        vector<int> stack_locked;
-        vector<int> stack_unlocked;
+        stack<int> stack_locked;
+        stack<int> stack_unlocked;
 
         for (int i = 0; i < s.length(); ++i) {
             if (locked[i] == '0') {
-                stack_unlocked.push_back(i);
+                stack_unlocked.push(i);
             } else if (s[i] == '(') {
-                stack_locked.push_back(i);
+                stack_locked.push(i);
             } else {
                 if (!stack_locked.empty()) {
-                    stack_locked.pop_back();
+                    stack_locked.pop();
                 } else if (!stack_unlocked.empty()) {
-                    stack_unlocked.pop_back();
+                    stack_unlocked.pop();
                 } else {
                     return false;
                 }
             }
         }
 
-        while (!stack_locked.empty() && !stack_unlocked.empty() && stack_locked.back() < stack_unlocked.back()) {
-            stack_locked.pop_back();
-            stack_unlocked.pop_back();
+        while (!stack_locked.empty() && !stack_unlocked.empty() && stack_locked.top() < stack_unlocked.top()) {
+            stack_locked.pop();
+            stack_unlocked.pop();
         }
 
         if (!stack_locked.empty()) {
