@@ -81,6 +81,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [2465-shifting-letters-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0952-word-subsets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
