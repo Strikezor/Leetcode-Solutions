@@ -102,6 +102,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 ## String Matching
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 ## Counting
 |  |
 | ------- |
