@@ -26,6 +26,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | ------- |
 | [0101-symmetric-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
@@ -33,6 +34,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0101-symmetric-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -54,6 +56,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0952-word-subsets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1396-count-servers-that-communicate](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
@@ -145,6 +148,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
@@ -164,6 +168,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2145-grid-game) |
@@ -172,4 +177,8 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
