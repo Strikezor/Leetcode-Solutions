@@ -81,6 +81,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0407-trapping-rain-water-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0854-making-a-large-island](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -119,6 +120,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -171,6 +173,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 ## Hash Table
 |  |
 | ------- |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
