@@ -80,6 +80,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0854-making-a-large-island](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
@@ -226,6 +227,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0135-candy) |
 | [1502-construct-k-palindrome-strings](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
