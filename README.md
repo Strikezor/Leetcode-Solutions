@@ -318,6 +318,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 ## Math
 |  |
 | ------- |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
