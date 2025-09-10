@@ -97,6 +97,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [1524-string-matching-in-an-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -189,6 +190,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [1364-tuple-with-same-product](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
@@ -229,6 +231,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | ------- |
 | [0135-candy](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0135-candy) |
 | [1502-construct-k-palindrome-strings](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2509-minimize-xor) |
