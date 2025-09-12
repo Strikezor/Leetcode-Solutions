@@ -148,6 +148,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0952-word-subsets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
@@ -185,6 +186,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0952-word-subsets) |
@@ -325,6 +327,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
