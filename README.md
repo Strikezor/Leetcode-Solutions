@@ -169,6 +169,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -257,6 +258,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -328,6 +330,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3462-vowels-game-in-a-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Data Stream
 |  |
 | ------- |
@@ -342,4 +345,8 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [2265-partition-array-according-to-given-pivot](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
