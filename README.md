@@ -87,6 +87,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1364-tuple-with-same-product](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -151,6 +152,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0012-integer-to-roman](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0952-word-subsets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -193,6 +195,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
