@@ -127,6 +127,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3797-design-spreadsheet](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [3447-clear-digits](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
@@ -217,6 +219,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3797-design-spreadsheet](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -296,6 +299,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [2145-grid-game](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3797-design-spreadsheet](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Shortest Path
 |  |
 | ------- |
@@ -337,6 +341,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [1477-product-of-the-last-k-numbers](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
+| [3797-design-spreadsheet](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
