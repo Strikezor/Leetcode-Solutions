@@ -128,6 +128,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3797-design-spreadsheet](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -221,6 +222,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [3455-minimum-length-of-string-after-operations](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3678-design-task-manager](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -345,12 +347,14 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [2434-design-a-number-container-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -385,4 +389,12 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Binary Search
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3827-implement-router) |
+## Queue
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
