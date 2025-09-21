@@ -104,6 +104,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2023-design-movie-rental-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2107-find-unique-binary-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2145-grid-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -210,6 +211,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [1502-construct-k-palindrome-strings](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2023-design-movie-rental-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2429-design-a-food-rating-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
@@ -287,6 +289,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2023-design-movie-rental-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -343,6 +346,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [2023-design-movie-rental-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3678-design-task-manager) |
@@ -351,6 +355,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3678-design-task-manager) |
