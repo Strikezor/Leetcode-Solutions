@@ -157,6 +157,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | ------- |
 | [0012-integer-to-roman](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0165-compare-version-numbers](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0952-word-subsets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
@@ -386,6 +387,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
