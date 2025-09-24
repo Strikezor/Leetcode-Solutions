@@ -158,6 +158,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0012-integer-to-roman](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0165-compare-version-numbers](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0952-word-subsets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
@@ -202,6 +203,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | ------- |
 | [0012-integer-to-roman](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0952-word-subsets) |
@@ -369,6 +371,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | ------- |
 | [0012-integer-to-roman](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
