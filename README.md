@@ -80,6 +80,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0494-target-sum) |
@@ -134,6 +135,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0494-target-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
