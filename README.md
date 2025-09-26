@@ -84,6 +84,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0135-candy](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0611-valid-triangle-number](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0854-making-a-large-island](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -262,6 +263,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [0135-candy](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0135-candy) |
+| [0611-valid-triangle-number](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -337,6 +339,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 ## Sorting
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2887-sort-vowels-in-a-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -393,6 +396,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -407,6 +411,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [3827-implement-router](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3827-implement-router) |
 ## Queue
 |  |
