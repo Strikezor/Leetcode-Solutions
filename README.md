@@ -85,6 +85,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0407-trapping-rain-water-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0611-valid-triangle-number](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0830-largest-triangle-area](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -377,6 +378,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0012-integer-to-roman](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0830-largest-triangle-area](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -417,4 +419,8 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3827-implement-router) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
