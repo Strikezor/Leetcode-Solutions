@@ -91,6 +91,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1364-tuple-with-same-product](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -265,6 +266,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | ------- |
 | [0135-candy](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1502-construct-k-palindrome-strings](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -341,6 +343,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2887-sort-vowels-in-a-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -379,6 +382,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0013-roman-to-integer](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
