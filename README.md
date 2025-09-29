@@ -94,6 +94,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [1018-largest-perimeter-triangle](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1364-tuple-with-same-product](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -143,6 +144,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
