@@ -115,6 +115,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [2265-partition-array-according-to-given-pivot](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2429-design-a-food-rating-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -354,6 +355,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -389,6 +391,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [1477-product-of-the-last-k-numbers](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3462-vowels-game-in-a-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -429,4 +432,8 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
