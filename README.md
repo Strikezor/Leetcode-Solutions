@@ -359,6 +359,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [2324-find-triangular-sum-of-an-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-water-bottles-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3447-clear-digits) |
 ## Design
@@ -396,6 +397,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [2324-find-triangular-sum-of-an-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3336-water-bottles-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Data Stream
 |  |
