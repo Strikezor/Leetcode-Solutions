@@ -31,6 +31,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0417-pacific-atlantic-water-flow](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -48,6 +49,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0417-pacific-atlantic-water-flow](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -88,6 +90,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0417-pacific-atlantic-water-flow](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0611-valid-triangle-number](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -307,6 +310,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2023-design-movie-rental-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
@@ -319,6 +323,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -335,6 +340,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -431,6 +437,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [3827-implement-router](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3827-implement-router) |
 ## Queue
 |  |
