@@ -107,6 +107,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [1477-product-of-the-last-k-numbers](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -227,6 +228,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [1364-tuple-with-same-product](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1612-avoid-flood-in-the-city](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2023-design-movie-rental-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
@@ -277,6 +279,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0611-valid-triangle-number](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1502-construct-k-palindrome-strings](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1612-avoid-flood-in-the-city](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -312,6 +315,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [0407-trapping-rain-water-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1612-avoid-flood-in-the-city](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
@@ -438,6 +442,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Strikezor/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [3827-implement-router](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3827-implement-router) |
 ## Queue
 |  |
