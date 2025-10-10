@@ -142,6 +142,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
@@ -215,6 +216,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [2358-number-of-ways-to-split-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
