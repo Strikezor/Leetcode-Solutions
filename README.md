@@ -148,6 +148,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,6 +163,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Strikezor/Leetcode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -262,6 +264,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [2509-minimize-xor](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String Matching
 |  |
 | ------- |
@@ -425,6 +428,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3336-water-bottles-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Data Stream
 |  |
 | ------- |
@@ -472,4 +476,9 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
