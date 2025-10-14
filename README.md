@@ -146,6 +146,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3827-implement-router) |
