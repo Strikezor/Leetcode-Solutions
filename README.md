@@ -133,6 +133,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -252,6 +253,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [2434-design-a-number-container-system](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -300,6 +302,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2509-minimize-xor) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Counting
 |  |
 | ------- |
@@ -431,6 +434,7 @@ Contributions to this repository are welcome! If you have a new solution to a pr
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Strikezor/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3336-water-bottles-ii](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Strikezor/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
